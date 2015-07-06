@@ -1,0 +1,11 @@
+{
+  "sourceCreationDate": "2015-01-19",
+  "license": "Unknown",
+  "description": "Personeelsadministratie VOC 18e eeuw: persoonsgegevens van personeel op zee en overzee, gekoppeld aan alle scheepsreizen van de VOC. De data zijn overgenomen uit de 18e-eeuwse scheepssoldijboeken en ingetypt in een relationele database.\r\n\r\nTe vinden op https://easy.dans.knaw.nl/ui/datasets/id/easy-dataset:48604",
+  "author": "Drs A.J.M. van Velzen en Prof.dr. F.S. Gaastra",
+  "website": "http://vocopvarenden.nationaalarchief.nl",
+  "editor": "Petra / Erfgoed en Locatie",
+  "edits": "Bewerkingen:\r\n\r\n- Uit de gehele set (versie 2011) zijn de unieke plaatsnamen gehaald (ca. 140.000) uit het \"Herkomst\"-veld gehaald\r\n- Voorlopig simpelweg op naam vergeleken met de Nederlandse (en enkele Deense) plaatsnamen uit Simon Hart, via de Histopo API\r\n- De gevonden plaatsen zijn gemapped naar geonames\r\n- Het gros; de buitenlandse plaatsnamen vallen daardoor buiten deze gemapte set\r\n- Tevens is waar mogelijk de in histopo al aanwezige KloekeCode opgenomen\r\n\r\n\r\nTODO:\r\n- Naast het gemapte resultaat zijn 276 plaatsen gevonden, die meer dan 1 vermelding hebben in geonames. Daarvan kan nog gekeken worden of die \"opgelost\" zouden kunnen worden.\r\n- naast de default mapping zou een fuzzy search ook nog wel het een en ander kunnen opleveren\r\n",
+  "title": "VOC Opvarenden 1680-1794",
+  "id": "voc-opvarenden"
+}
