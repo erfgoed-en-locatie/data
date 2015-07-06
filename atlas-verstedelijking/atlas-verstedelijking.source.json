@@ -1,5 +1,11 @@
-{"id": "atlas-verstedelijking",
- "title": "atlas-verstedelijking",
- "license": "?",
- "description": "atlas-verstedelijking",
- "author": "histograph"}
+{
+  "description": "Atlas der verstedelijking\r\nHet gaat niet om het hele boek, maar de geometrieën van de 35 grootste steden uit verschillende jaren (van de middeleeuwen tot nu).",
+  "website":  "http://thoth.nl/Rubrieken/Architectuur---stedenbouw/Atlas-van-de-verstedelijking-in-nederland-1000-jaar-ruimtelijke-ontwikkeling",
+  "author": "[Institute of the History of Art, Architecture and Urbanism (IHAAU)](http://bk.tudelft.nl/index.php?id=14929&L=0) van de faculteit Bouwkunde van de TU Delft (o.l.v. Reinout Rutte) en de [Rijksdienst voor het Cultureel Erfgoed](http://www.cultureelerfgoed.nl/) (o.l.v. Jaap Evert Abrahamse)",
+  "sourceCreationDate": "0000-00-00",
+  "edits": "De verkregen geometrieën zijn aan Geonames gekoppeld\r\n- De geometrieen zijn verschillend getypeerd. De meeste records representeren buurten in steden (hg:Place), andere zijn gemeentes (hg:Municipality)\r\n- geometrieën van de verschillende jaren van de 35 steden extraheren met behulp van onderstaande query:\r\n SELECT pg_catalog.concat(stedenperjaar.stad, '_', stedenperjaar.jaar) AS id, \r\n  stedenperjaar.stad, \r\n  stedenperjaar.jaar, \r\n  count(\"35steden\".id) AS count, \r\n  st_multi(st_union(st_transform(\"35steden\".the_geom, 4326))) AS the_geom\r\n   FROM \"35steden\", \r\n    ( SELECT \"35steden\".stad, \"35steden\".jaar\r\n           FROM \"35steden\"\r\n          GROUP BY \"35steden\".stad, \"35steden\".jaar\r\n          ORDER BY \"35steden\".stad, \"35steden\".jaar) stedenperjaar\r\n  WHERE stedenperjaar.stad::text = \"35steden\".stad::text AND \r\n    stedenperjaar.jaar >= \"35steden\".jaar AND \r\n    st_isvalid(\"35steden\".the_geom) = true\r\n  GROUP BY stedenperjaar.stad, stedenperjaar.jaar\r\n  ORDER BY stedenperjaar.stad, stedenperjaar.jaar;\r\nExport naar GeoJSON met behulp van QGIS\r\n\r\nTODO:\r\n- Er zijn mappings gemaakt naar Geonames gemeentes die wellicht nog niet beschikbaar zijn in de Geonames-set in Histograph. Deze moeten dan nog geharvest worden en toegevoegd in de Geonames-set.\r\n\r\n\r\nVerkeerde polygonen van Breda bij DenBosch zijn resolved. ",
+  "license": "Volgens Menne Kosian 'mag alles gebruikt worden'. Zou goed idee zijn hem nog even na te laten vragen welke CC licentie daar, voor wat betreft de geodata, dan opgeplakt zou kunnen worden.",
+  "editor": "Rein & Niene (team E&L)",
+  "title": "AtlasVerstedelijkingTest",
+  "id": "atlasverstedelijking"
+}
