@@ -1,0 +1,11 @@
+{
+  "id": "gemeentegeschiedenis",
+  "edits": "In de oorspronkelijke dataset is van elk jaar tussen 1812 en 1997 een shapefile van alle dat jaar in Nederland voorkomende gemeentes beschikbaar. Wij hebben alleen van de jaren waarin een gemeente haar grenzen wijzigde een geometrie opgenomen.\r\nAlle data is van de gemeentegeschiedenis api betrokken, zie http://www.gemeentegeschiedenis.nl/pagina/5/",
+  "description": "Nederland telt bijna 400 gemeenten. In 1812 waren dat er meer dan 1100. In twee eeuwen vol herindelingen, annexaties en fusies heeft Nederland bijna 1700 gemeenten gekend.\r\n\r\nDe data van gemeentegeschiedenis is gebouwd op twee datasets: het Repertorium van Nederlandse gemeenten vanaf 1812 van Ad van der Meer en Onno Boonstra en de bij DANS gedeponeerde NLGis shapefiles van Onno Boonstra, waarin van elk jaar van 1812 tot 1997 de gemeentegrenzen zijn vastgelegd.",
+  "sourceCreationDate": "2015-01-01",
+  "author": "Ad van der Meer, Onno Boonstra",
+  "website": "http://www.gemeentegeschiedenis.nl/",
+  "editor": "Menno den Engelse (team Erfgoed en Locatie)",
+  "license": "licentie nog onbekend",
+  "title": "Gemeentegeschiedenis"
+}
