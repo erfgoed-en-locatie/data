@@ -18,5 +18,3 @@ Bewerkingen:
 - Op basis van overeenkomst in naam en nabijheid is gekoppeld met de TGN, en, indien dat niet lukte, met Geonames.
 
 Bewerker: menno@denengelse.nl
-
-Use: `node poorterboeken-histograph.js -f poorterboeken_places.csv`
