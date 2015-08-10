@@ -1,273 +1,273 @@
-{"id":"1","name":"'t Aogje","type":"Place","validSince":"2000"}
-{"id":"2","name":"'t Bliekersriek","type":"Place","validSince":"2000"}
-{"id":"3","name":"'t Bokkerijersrijk","type":"Place","validSince":"2000"}
-{"id":"4","name":"'t Ganzedrp","type":"Place","validSince":"2000"}
-{"id":"5","name":"'t Heidurp","type":"Place","validSince":"2000"}
-{"id":"6","name":"'t Hout","type":"Place","validSince":"2000"}
-{"id":"7","name":"'t Hupke","type":"Place","validSince":"2000"}
-{"id":"8","name":"'t Kleigat","type":"Place","validSince":"2000"}
-{"id":"9","name":"'t Nlersriek","type":"Place","validSince":"2000"}
-{"id":"10","name":"'t Sanegat","type":"Place","validSince":"2000"}
-{"id":"11","name":"'t Ulenest","type":"Place","validSince":"2000"}
-{"id":"12","name":"'t Verkesriek","type":"Place","validSince":"2000"}
-{"id":"13","name":"'t Vosse'ol","type":"Place","validSince":"2000"}
-{"id":"14","name":"'t Zelfkantriek","type":"Place","validSince":"2000"}
-{"id":"15","name":"Altere","type":"Place","validSince":"2000"}
-{"id":"16","name":"Aopelaand","type":"Place","validSince":"2000"}
-{"id":"17","name":"Aopenland","type":"Place","validSince":"2000"}
-{"id":"18","name":"Ballefruttersgat","type":"Place","validSince":"2000"}
-{"id":"19","name":"Ballengat","type":"Place","validSince":"2000"}
-{"id":"20","name":"Banaonblusserslaand","type":"Place","validSince":"2000"}
-{"id":"21","name":"Baviaonenland","type":"Place","validSince":"2000"}
-{"id":"22","name":"Berenland","type":"Place","validSince":"2000"}
-{"id":"23","name":"Bergkneuterrijk","type":"Place","validSince":"2000"}
-{"id":"24","name":"Biesboschrakkersrijk","type":"Place","validSince":"2000"}
-{"id":"25","name":"Blaosdonk","type":"Place","validSince":"2000"}
-{"id":"26","name":"Blubberdam","type":"Place","validSince":"2000"}
-{"id":"27","name":"Boemeldonck","type":"Place","validSince":"2000"}
-{"id":"28","name":"Bokkendonk","type":"Place","validSince":"2000"}
-{"id":"29","name":"Bokkenriek","type":"Place","validSince":"2000"}
-{"id":"30","name":"Bokkenriek","type":"Place","validSince":"2000"}
-{"id":"31","name":"Bokkenrijk","type":"Place","validSince":"2000"}
-{"id":"32","name":"Bollenmeppersgat","type":"Place","validSince":"2000"}
-{"id":"33","name":"Bonenpikkerslaand","type":"Place","validSince":"2000"}
-{"id":"34","name":"Bonnenland","type":"Place","validSince":"2000"}
-{"id":"35","name":"Bosuilendorp","type":"Place","validSince":"2000"}
-{"id":"36","name":"Bremspoersengat","type":"Place","validSince":"2000"}
-{"id":"37","name":"Brouwersgat","type":"Place","validSince":"2000"}
-{"id":"38","name":"Buurtgat","type":"Place","validSince":"2000"}
-{"id":"39","name":"Cuppelsgat","type":"Place","validSince":"2000"}
-{"id":"40","name":"D'n Haaykaant","type":"Place","validSince":"2000"}
-{"id":"41","name":"D'n Haozepot","type":"Place","validSince":"2000"}
-{"id":"42","name":"De Erpelkuul","type":"Place","validSince":"2000"}
-{"id":"43","name":"De Hei","type":"Place","validSince":"2000"}
-{"id":"44","name":"De Keijepoal","type":"Place","validSince":"2000"}
-{"id":"45","name":"De May","type":"Place","validSince":"2000"}
-{"id":"46","name":"De Plattevonder","type":"Place","validSince":"2000"}
-{"id":"47","name":"De Rommelpot","type":"Place","validSince":"2000"}
-{"id":"48","name":"De Straot","type":"Place","validSince":"2000"}
-{"id":"49","name":"Deurdouwersrijk","type":"Place","validSince":"2000"}
-{"id":"50","name":"Dllekesgat","type":"Place","validSince":"2000"}
-{"id":"51","name":"Dommelbaorzedurp","type":"Place","validSince":"2000"}
-{"id":"52","name":"Dors'T'vlegelland","type":"Place","validSince":"2000"}
-{"id":"53","name":"Dringersgat","type":"Place","validSince":"2000"}
-{"id":"54","name":"Dun Birrekoal","type":"Place","validSince":"2000"}
-{"id":"55","name":"Dwergoni","type":"Place","validSince":"2000"}
-{"id":"56","name":"Dwrsklippelgat","type":"Place","validSince":"2000"}
-{"id":"57","name":"Empeldonk","type":"Place","validSince":"2000"}
-{"id":"58","name":"Erpelrooierslaand","type":"Place","validSince":"2000"}
-{"id":"59","name":"Ezelrijk","type":"Place","validSince":"2000"}
-{"id":"60","name":"Faantelaand","type":"Place","validSince":"2000"}
-{"id":"61","name":"Ganzegat","type":"Place","validSince":"2000"}
-{"id":"62","name":"Ganzendonck","type":"Place","validSince":"2000"}
-{"id":"63","name":"Geitenbokkenrijk","type":"Place","validSince":"2000"}
-{"id":"64","name":"Germelaand","type":"Place","validSince":"2000"}
-{"id":"65","name":"Giegeldonk","type":"Place","validSince":"2000"}
-{"id":"66","name":"Goudpoepersland","type":"Place","validSince":"2000"}
-{"id":"67","name":"Grasduinersdurp","type":"Place","validSince":"2000"}
-{"id":"68","name":"Haaikneuterrijk","type":"Place","validSince":"2000"}
-{"id":"69","name":"Haaikneuterslaand","type":"Place","validSince":"2000"}
-{"id":"70","name":"Hanenrijk","type":"Place","validSince":"2000"}
-{"id":"71","name":"Haoiboerenrijk","type":"Place","validSince":"2000"}
-{"id":"72","name":"Haorendam","type":"Place","validSince":"2000"}
-{"id":"73","name":"Heikneuterslaand","type":"Place","validSince":"2000"}
-{"id":"74","name":"Heiknuuterland","type":"Place","validSince":"2000"}
-{"id":"75","name":"Heimussenland","type":"Place","validSince":"2000"}
-{"id":"76","name":"Het Klottenriek","type":"Place","validSince":"2000"}
-{"id":"77","name":"Hiekrikkeldurp","type":"Place","validSince":"2000"}
-{"id":"78","name":"Huibuukelaand","type":"Place","validSince":"2000"}
-{"id":"79","name":"Indegat","type":"Place","validSince":"2000"}
-{"id":"80","name":"Indegat","type":"Place","validSince":"2000"}
-{"id":"81","name":"Kaaiendonk","type":"Place","validSince":"2000"}
-{"id":"82","name":"Kaaiengat","type":"Place","validSince":"2000"}
-{"id":"83","name":"Kaauwvoetenland","type":"Place","validSince":"2000"}
-{"id":"84","name":"Kafland","type":"Place","validSince":"2000"}
-{"id":"85","name":"Kakeldonk","type":"Place","validSince":"2000"}
-{"id":"86","name":"Kantemaaiersdorp","type":"Place","validSince":"2000"}
-{"id":"87","name":"Kattegat","type":"Place","validSince":"2000"}
-{"id":"88","name":"Keaversriek","type":"Place","validSince":"2000"}
-{"id":"89","name":"Keiebijtersstad","type":"Place","validSince":"2000"}
-{"id":"90","name":"Keiendonk","type":"Place","validSince":"2000"}
-{"id":"91","name":"Keiengat","type":"Place","validSince":"2000"}
-{"id":"92","name":"Keienland","type":"Place","validSince":"2000"}
-{"id":"93","name":"Keienschietersrijk","type":"Place","validSince":"2000"}
-{"id":"94","name":"Keienschietersrijk","type":"Place","validSince":"2000"}
-{"id":"95","name":"Keiespellersdurp","type":"Place","validSince":"2000"}
-{"id":"96","name":"Kelestreupersrijk","type":"Place","validSince":"2000"}
-{"id":"97","name":"Kersenpittenrijk","type":"Place","validSince":"2000"}
-{"id":"98","name":"Kielegat","type":"Place","validSince":"2000"}
-{"id":"99","name":"Kiepenrijk","type":"Place","validSince":"2000"}
-{"id":"100","name":"Klayendam","type":"Place","validSince":"2000"}
-{"id":"101","name":"Kleidonk","type":"Place","validSince":"2000"}
-{"id":"102","name":"Kleiknoestenstad","type":"Place","validSince":"2000"}
-{"id":"103","name":"Klein Antwerpen","type":"Place","validSince":"2000"}
-{"id":"104","name":"Klepbroekenbult","type":"Place","validSince":"2000"}
-{"id":"105","name":"Kleuvendurp","type":"Place","validSince":"2000"}
-{"id":"106","name":"Klompengat","type":"Place","validSince":"2000"}
-{"id":"107","name":"Klotland","type":"Place","validSince":"2000"}
-{"id":"108","name":"Kluivenduikersrijk","type":"Place","validSince":"2000"}
-{"id":"109","name":"Kneutergat","type":"Place","validSince":"2000"}
-{"id":"110","name":"Knllekesland","type":"Place","validSince":"2000"}
-{"id":"111","name":"Knoepersriek","type":"Place","validSince":"2000"}
-{"id":"112","name":"Knoerissenrijk","type":"Place","validSince":"2000"}
-{"id":"113","name":"Knollenrijk","type":"Place","validSince":"2000"}
-{"id":"114","name":"Knollevretersgat","type":"Place","validSince":"2000"}
-{"id":"115","name":"Knopspeldjesrijk","type":"Place","validSince":"2000"}
-{"id":"116","name":"Knorrepottenrijk","type":"Place","validSince":"2000"}
-{"id":"117","name":"Knotwilgendam","type":"Place","validSince":"2000"}
-{"id":"118","name":"Knusterooiersland","type":"Place","validSince":"2000"}
-{"id":"119","name":"Koffiegat","type":"Place","validSince":"2000"}
-{"id":"120","name":"Kraaienland","type":"Place","validSince":"2000"}
-{"id":"121","name":"Kraaierijk","type":"Place","validSince":"2000"}
-{"id":"122","name":"Krabbegat","type":"Place","validSince":"2000"}
-{"id":"123","name":"Krabberdonk","type":"Place","validSince":"2000"}
-{"id":"124","name":"Krimpersgat","type":"Place","validSince":"2000"}
-{"id":"125","name":"Kruikenstad","type":"Place","validSince":"2000"}
-{"id":"126","name":"Krullendonk","type":"Place","validSince":"2000"}
-{"id":"127","name":"Krulstarteland","type":"Place","validSince":"2000"}
-{"id":"128","name":"Krutjesgat","type":"Place","validSince":"2000"}
-{"id":"129","name":"Krutjesgat","type":"Place","validSince":"2000"}
-{"id":"130","name":"Kuussegat","type":"Place","validSince":"2000"}
-{"id":"131","name":"Kwastenlaand","type":"Place","validSince":"2000"}
-{"id":"132","name":"Lampegat","type":"Place","validSince":"2000"}
-{"id":"133","name":"Lappegat","type":"Place","validSince":"2000"}
-{"id":"134","name":"Lappelekkursland","type":"Place","validSince":"2000"}
-{"id":"135","name":"Leemkuul","type":"Place","validSince":"2000"}
-{"id":"136","name":"Loerendonck","type":"Place","validSince":"2000"}
-{"id":"137","name":"Maerkrattenland","type":"Place","validSince":"2000"}
-{"id":"138","name":"Mangelpeejenlaand","type":"Place","validSince":"2000"}
-{"id":"139","name":"Maoneblusserslaand","type":"Place","validSince":"2000"}
-{"id":"140","name":"Maoskesdam","type":"Place","validSince":"2000"}
-{"id":"141","name":"Mastepinnenlaand","type":"Place","validSince":"2000"}
-{"id":"142","name":"Meekrapdurp","type":"Place","validSince":"2000"}
-{"id":"143","name":"Meerpoel","type":"Place","validSince":"2000"}
-{"id":"144","name":"Moerbienlaand","type":"Place","validSince":"2000"}
-{"id":"145","name":"Moesland","type":"Place","validSince":"2000"}
-{"id":"146","name":"Mosterdgat","type":"Place","validSince":"2000"}
-{"id":"147","name":"Muggehol","type":"Place","validSince":"2000"}
-{"id":"148","name":"Mulkgat","type":"Place","validSince":"2000"}
-{"id":"149","name":"Mullukzuipertjesland","type":"Place","validSince":"2000"}
-{"id":"150","name":"Muuzegat","type":"Place","validSince":"2000"}
-{"id":"151","name":"Nachtgraversrijk","type":"Place","validSince":"2000"}
-{"id":"152","name":"Nachtuilenrijk","type":"Place","validSince":"2000"}
-{"id":"153","name":"Narregat","type":"Place","validSince":"2000"}
-{"id":"154","name":"Narrendonk","type":"Place","validSince":"2000"}
-{"id":"155","name":"Oeteldonk","type":"Place","validSince":"2000"}
-{"id":"156","name":"Oetelhaozendam","type":"Place","validSince":"2000"}
-{"id":"157","name":"Oggelvorsenpoel","type":"Place","validSince":"2000"}
-{"id":"158","name":"Oiversland","type":"Place","validSince":"2000"}
-{"id":"159","name":"Olliedonk","type":"Place","validSince":"2000"}
-{"id":"160","name":"Ossekoppenrijk","type":"Place","validSince":"2000"}
-{"id":"161","name":"Osserijk","type":"Place","validSince":"2000"}
-{"id":"162","name":"Ostrecht","type":"Place","validSince":"2000"}
-{"id":"163","name":"Paddenriek","type":"Place","validSince":"2000"}
-{"id":"164","name":"Papgat","type":"Place","validSince":"2000"}
-{"id":"165","name":"Papgat","type":"Place","validSince":"2000"}
-{"id":"166","name":"Papgat","type":"Place","validSince":"2000"}
-{"id":"167","name":"Paplaand","type":"Place","validSince":"2000"}
-{"id":"168","name":"Paplippelland","type":"Place","validSince":"2000"}
-{"id":"169","name":"Papslokkersgat","type":"Place","validSince":"2000"}
-{"id":"170","name":"Peejenland","type":"Place","validSince":"2000"}
-{"id":"171","name":"Peejenrijk","type":"Place","validSince":"2000"}
-{"id":"172","name":"Peejloofdurp","type":"Place","validSince":"2000"}
-{"id":"173","name":"Peelknijnenrijk","type":"Place","validSince":"2000"}
-{"id":"174","name":"Peelleuterrijk","type":"Place","validSince":"2000"}
-{"id":"175","name":"Peelpluimenrijk","type":"Place","validSince":"2000"}
-{"id":"176","name":"Peelstrekelrijk","type":"Place","validSince":"2000"}
-{"id":"177","name":"Peeltuuterrijk","type":"Place","validSince":"2000"}
-{"id":"178","name":"Peelvrujtersland","type":"Place","validSince":"2000"}
-{"id":"179","name":"Peelvruutersrijk","type":"Place","validSince":"2000"}
-{"id":"180","name":"Peperbussenrijk","type":"Place","validSince":"2000"}
-{"id":"181","name":"Pezerikkengat","type":"Place","validSince":"2000"}
-{"id":"182","name":"Pieperland","type":"Place","validSince":"2000"}
-{"id":"183","name":"Pieregat","type":"Place","validSince":"2000"}
-{"id":"184","name":"Piereslikkersrijk","type":"Place","validSince":"2000"}
-{"id":"185","name":"Pierewaaiersrijk","type":"Place","validSince":"2000"}
-{"id":"186","name":"Pierewaaijersrijk","type":"Place","validSince":"2000"}
-{"id":"187","name":"Pinnekleuversgat","type":"Place","validSince":"2000"}
-{"id":"188","name":"Pintenwippersrijk","type":"Place","validSince":"2000"}
-{"id":"189","name":"Pintewippersrijk","type":"Place","validSince":"2000"}
-{"id":"190","name":"Plekkersriek","type":"Place","validSince":"2000"}
-{"id":"191","name":"Ploegersland","type":"Place","validSince":"2000"}
-{"id":"192","name":"Poeswiek","type":"Place","validSince":"2000"}
-{"id":"193","name":"Pompedurp","type":"Place","validSince":"2000"}
-{"id":"194","name":"Pomperstad","type":"Place","validSince":"2000"}
-{"id":"195","name":"Pothuusburg","type":"Place","validSince":"2000"}
-{"id":"196","name":"Pottenbakkersrijk","type":"Place","validSince":"2000"}
-{"id":"197","name":"Potteschijtersland","type":"Place","validSince":"2000"}
-{"id":"198","name":"Puitenlaand","type":"Place","validSince":"2000"}
-{"id":"199","name":"Puitenol","type":"Place","validSince":"2000"}
-{"id":"200","name":"Put en Buntland","type":"Place","validSince":"2000"}
-{"id":"201","name":"R'ommelpottersland","type":"Place","validSince":"2000"}
-{"id":"202","name":"Raldal","type":"Place","validSince":"2000"}
-{"id":"203","name":"Raopersgat","type":"Place","validSince":"2000"}
-{"id":"204","name":"Reigerland","type":"Place","validSince":"2000"}
-{"id":"205","name":"Riefelshol","type":"Place","validSince":"2000"}
-{"id":"206","name":"Roesdonk","type":"Place","validSince":"2000"}
-{"id":"207","name":"Rommegat","type":"Place","validSince":"2000"}
-{"id":"208","name":"Rommelgat","type":"Place","validSince":"2000"}
-{"id":"209","name":"Rottenrijk","type":"Place","validSince":"2000"}
-{"id":"210","name":"SchaopenWaeserland","type":"Place","validSince":"2000"}
-{"id":"211","name":"Schoenlapperslaand","type":"Place","validSince":"2000"}
-{"id":"212","name":"Schorsbos","type":"Place","validSince":"2000"}
-{"id":"213","name":"Schottelzakkenrijk","type":"Place","validSince":"2000"}
-{"id":"214","name":"Schraansersrijk","type":"Place","validSince":"2000"}
-{"id":"215","name":"Skon Orregat","type":"Place","validSince":"2000"}
-{"id":"216","name":"Slikgat","type":"Place","validSince":"2000"}
-{"id":"217","name":"Slotgat","type":"Place","validSince":"2000"}
-{"id":"218","name":"Smokkelgat","type":"Place","validSince":"2000"}
-{"id":"219","name":"Smoorfretersland","type":"Place","validSince":"2000"}
-{"id":"220","name":"Smouzenrijk","type":"Place","validSince":"2000"}
-{"id":"221","name":"Snerkersdurp","type":"Place","validSince":"2000"}
-{"id":"222","name":"Snevelbokkenland","type":"Place","validSince":"2000"}
-{"id":"223","name":"Snewbulten","type":"Place","validSince":"2000"}
-{"id":"224","name":"Spieringkruiersdurp","type":"Place","validSince":"2000"}
-{"id":"225","name":"Spurriebuukerijk","type":"Place","validSince":"2000"}
-{"id":"226","name":"Spurriezeiersland","type":"Place","validSince":"2000"}
-{"id":"227","name":"Stekkegat","type":"Place","validSince":"2000"}
-{"id":"228","name":"Stijlorenrijk","type":"Place","validSince":"2000"}
-{"id":"229","name":"Stopnaoldenrijk","type":"Place","validSince":"2000"}
-{"id":"230","name":"Streupersrijk","type":"Place","validSince":"2000"}
-{"id":"231","name":"Strienedurpke","type":"Place","validSince":"2000"}
-{"id":"232","name":"Strienestad","type":"Place","validSince":"2000"}
-{"id":"233","name":"Striepersgat","type":"Place","validSince":"2000"}
-{"id":"234","name":"Strijkersgat","type":"Place","validSince":"2000"}
-{"id":"235","name":"Strijkersgat","type":"Place","validSince":"2000"}
-{"id":"236","name":"Struifdonk","type":"Place","validSince":"2000"}
-{"id":"237","name":"Struivendurp","type":"Place","validSince":"2000"}
-{"id":"238","name":"Struivenlaand","type":"Place","validSince":"2000"}
-{"id":"239","name":"t Tusriek","type":"Place","validSince":"2000"}
-{"id":"240","name":"t Weppus","type":"Place","validSince":"2000"}
-{"id":"241","name":"Terpersdurp","type":"Place","validSince":"2000"}
-{"id":"242","name":"Teutengat","type":"Place","validSince":"2000"}
-{"id":"243","name":"Theebuikenland","type":"Place","validSince":"2000"}
-{"id":"244","name":"Toeterland","type":"Place","validSince":"2000"}
-{"id":"245","name":"Torensjouwerslaand","type":"Place","validSince":"2000"}
-{"id":"246","name":"Totdenringen","type":"Place","validSince":"2000"}
-{"id":"247","name":"Tullepetaonestad","type":"Place","validSince":"2000"}
-{"id":"248","name":"Turfstekerslaand","type":"Place","validSince":"2000"}
-{"id":"249","name":"Uilendonck","type":"Place","validSince":"2000"}
-{"id":"250","name":"Ulewappersrijk","type":"Place","validSince":"2000"}
-{"id":"251","name":"Urnegat","type":"Place","validSince":"2000"}
-{"id":"252","name":"Vastelaovondzotteland","type":"Place","validSince":"2000"}
-{"id":"253","name":"Veenmollenrijk","type":"Place","validSince":"2000"}
-{"id":"254","name":"Veldhazenrijk","type":"Place","validSince":"2000"}
-{"id":"255","name":"Verkuskopperiek","type":"Place","validSince":"2000"}
-{"id":"256","name":"Verrekensrijk","type":"Place","validSince":"2000"}
-{"id":"257","name":"Waeverstadt","type":"Place","validSince":"2000"}
-{"id":"258","name":"Waoterrattenrijk","type":"Place","validSince":"2000"}
-{"id":"259","name":"Waoterrijk","type":"Place","validSince":"2000"}
-{"id":"260","name":"Wetterland","type":"Place","validSince":"2000"}
-{"id":"261","name":"Weversrijk","type":"Place","validSince":"2000"}
-{"id":"262","name":"Wjeeldrecht","type":"Place","validSince":"2000"}
-{"id":"263","name":"Wringersgat","type":"Place","validSince":"2000"}
-{"id":"264","name":"Zaandhaozenlaand","type":"Place","validSince":"2000"}
-{"id":"265","name":"Zaantaozelaant","type":"Place","validSince":"2000"}
-{"id":"266","name":"Zandhazendurp","type":"Place","validSince":"2000"}
-{"id":"267","name":"Zandkruiersland","type":"Place","validSince":"2000"}
-{"id":"268","name":"Zandkruiersland","type":"Place","validSince":"2000"}
-{"id":"269","name":"Zeikmeikenrijk","type":"Place","validSince":"2000"}
-{"id":"270","name":"Zeuvebultelaand","type":"Place","validSince":"2000"}
-{"id":"271","name":"Zwaajgat","type":"Place","validSince":"2000"}
-{"id":"272","name":"Zwammegat","type":"Place","validSince":"2000"}
-{"id":"273","name":"Zwetsgat","type":"Place","validSince":"2000"}
+{"id":"1","name":"'t Aogje","type":"hg:Place","validSince":"2000"}
+{"id":"2","name":"'t Bliekersriek","type":"hg:Place","validSince":"2000"}
+{"id":"3","name":"'t Bokkerijersrijk","type":"hg:Place","validSince":"2000"}
+{"id":"4","name":"'t Ganzedrp","type":"hg:Place","validSince":"2000"}
+{"id":"5","name":"'t Heidurp","type":"hg:Place","validSince":"2000"}
+{"id":"6","name":"'t Hout","type":"hg:Place","validSince":"2000"}
+{"id":"7","name":"'t Hupke","type":"hg:Place","validSince":"2000"}
+{"id":"8","name":"'t Kleigat","type":"hg:Place","validSince":"2000"}
+{"id":"9","name":"'t Nlersriek","type":"hg:Place","validSince":"2000"}
+{"id":"10","name":"'t Sanegat","type":"hg:Place","validSince":"2000"}
+{"id":"11","name":"'t Ulenest","type":"hg:Place","validSince":"2000"}
+{"id":"12","name":"'t Verkesriek","type":"hg:Place","validSince":"2000"}
+{"id":"13","name":"'t Vosse'ol","type":"hg:Place","validSince":"2000"}
+{"id":"14","name":"'t Zelfkantriek","type":"hg:Place","validSince":"2000"}
+{"id":"15","name":"Altere","type":"hg:Place","validSince":"2000"}
+{"id":"16","name":"Aopelaand","type":"hg:Place","validSince":"2000"}
+{"id":"17","name":"Aopenland","type":"hg:Place","validSince":"2000"}
+{"id":"18","name":"Ballefruttersgat","type":"hg:Place","validSince":"2000"}
+{"id":"19","name":"Ballengat","type":"hg:Place","validSince":"2000"}
+{"id":"20","name":"Banaonblusserslaand","type":"hg:Place","validSince":"2000"}
+{"id":"21","name":"Baviaonenland","type":"hg:Place","validSince":"2000"}
+{"id":"22","name":"Berenland","type":"hg:Place","validSince":"2000"}
+{"id":"23","name":"Bergkneuterrijk","type":"hg:Place","validSince":"2000"}
+{"id":"24","name":"Biesboschrakkersrijk","type":"hg:Place","validSince":"2000"}
+{"id":"25","name":"Blaosdonk","type":"hg:Place","validSince":"2000"}
+{"id":"26","name":"Blubberdam","type":"hg:Place","validSince":"2000"}
+{"id":"27","name":"Boemeldonck","type":"hg:Place","validSince":"2000"}
+{"id":"28","name":"Bokkendonk","type":"hg:Place","validSince":"2000"}
+{"id":"29","name":"Bokkenriek","type":"hg:Place","validSince":"2000"}
+{"id":"30","name":"Bokkenriek","type":"hg:Place","validSince":"2000"}
+{"id":"31","name":"Bokkenrijk","type":"hg:Place","validSince":"2000"}
+{"id":"32","name":"Bollenmeppersgat","type":"hg:Place","validSince":"2000"}
+{"id":"33","name":"Bonenpikkerslaand","type":"hg:Place","validSince":"2000"}
+{"id":"34","name":"Bonnenland","type":"hg:Place","validSince":"2000"}
+{"id":"35","name":"Bosuilendorp","type":"hg:Place","validSince":"2000"}
+{"id":"36","name":"Bremspoersengat","type":"hg:Place","validSince":"2000"}
+{"id":"37","name":"Brouwersgat","type":"hg:Place","validSince":"2000"}
+{"id":"38","name":"Buurtgat","type":"hg:Place","validSince":"2000"}
+{"id":"39","name":"Cuppelsgat","type":"hg:Place","validSince":"2000"}
+{"id":"40","name":"D'n Haaykaant","type":"hg:Place","validSince":"2000"}
+{"id":"41","name":"D'n Haozepot","type":"hg:Place","validSince":"2000"}
+{"id":"42","name":"De Erpelkuul","type":"hg:Place","validSince":"2000"}
+{"id":"43","name":"De Hei","type":"hg:Place","validSince":"2000"}
+{"id":"44","name":"De Keijepoal","type":"hg:Place","validSince":"2000"}
+{"id":"45","name":"De May","type":"hg:Place","validSince":"2000"}
+{"id":"46","name":"De Plattevonder","type":"hg:Place","validSince":"2000"}
+{"id":"47","name":"De Rommelpot","type":"hg:Place","validSince":"2000"}
+{"id":"48","name":"De Straot","type":"hg:Place","validSince":"2000"}
+{"id":"49","name":"Deurdouwersrijk","type":"hg:Place","validSince":"2000"}
+{"id":"50","name":"Dllekesgat","type":"hg:Place","validSince":"2000"}
+{"id":"51","name":"Dommelbaorzedurp","type":"hg:Place","validSince":"2000"}
+{"id":"52","name":"Dors'T'vlegelland","type":"hg:Place","validSince":"2000"}
+{"id":"53","name":"Dringersgat","type":"hg:Place","validSince":"2000"}
+{"id":"54","name":"Dun Birrekoal","type":"hg:Place","validSince":"2000"}
+{"id":"55","name":"Dwergoni","type":"hg:Place","validSince":"2000"}
+{"id":"56","name":"Dwrsklippelgat","type":"hg:Place","validSince":"2000"}
+{"id":"57","name":"Empeldonk","type":"hg:Place","validSince":"2000"}
+{"id":"58","name":"Erpelrooierslaand","type":"hg:Place","validSince":"2000"}
+{"id":"59","name":"Ezelrijk","type":"hg:Place","validSince":"2000"}
+{"id":"60","name":"Faantelaand","type":"hg:Place","validSince":"2000"}
+{"id":"61","name":"Ganzegat","type":"hg:Place","validSince":"2000"}
+{"id":"62","name":"Ganzendonck","type":"hg:Place","validSince":"2000"}
+{"id":"63","name":"Geitenbokkenrijk","type":"hg:Place","validSince":"2000"}
+{"id":"64","name":"Germelaand","type":"hg:Place","validSince":"2000"}
+{"id":"65","name":"Giegeldonk","type":"hg:Place","validSince":"2000"}
+{"id":"66","name":"Goudpoepersland","type":"hg:Place","validSince":"2000"}
+{"id":"67","name":"Grasduinersdurp","type":"hg:Place","validSince":"2000"}
+{"id":"68","name":"Haaikneuterrijk","type":"hg:Place","validSince":"2000"}
+{"id":"69","name":"Haaikneuterslaand","type":"hg:Place","validSince":"2000"}
+{"id":"70","name":"Hanenrijk","type":"hg:Place","validSince":"2000"}
+{"id":"71","name":"Haoiboerenrijk","type":"hg:Place","validSince":"2000"}
+{"id":"72","name":"Haorendam","type":"hg:Place","validSince":"2000"}
+{"id":"73","name":"Heikneuterslaand","type":"hg:Place","validSince":"2000"}
+{"id":"74","name":"Heiknuuterland","type":"hg:Place","validSince":"2000"}
+{"id":"75","name":"Heimussenland","type":"hg:Place","validSince":"2000"}
+{"id":"76","name":"Het Klottenriek","type":"hg:Place","validSince":"2000"}
+{"id":"77","name":"Hiekrikkeldurp","type":"hg:Place","validSince":"2000"}
+{"id":"78","name":"Huibuukelaand","type":"hg:Place","validSince":"2000"}
+{"id":"79","name":"Indegat","type":"hg:Place","validSince":"2000"}
+{"id":"80","name":"Indegat","type":"hg:Place","validSince":"2000"}
+{"id":"81","name":"Kaaiendonk","type":"hg:Place","validSince":"2000"}
+{"id":"82","name":"Kaaiengat","type":"hg:Place","validSince":"2000"}
+{"id":"83","name":"Kaauwvoetenland","type":"hg:Place","validSince":"2000"}
+{"id":"84","name":"Kafland","type":"hg:Place","validSince":"2000"}
+{"id":"85","name":"Kakeldonk","type":"hg:Place","validSince":"2000"}
+{"id":"86","name":"Kantemaaiersdorp","type":"hg:Place","validSince":"2000"}
+{"id":"87","name":"Kattegat","type":"hg:Place","validSince":"2000"}
+{"id":"88","name":"Keaversriek","type":"hg:Place","validSince":"2000"}
+{"id":"89","name":"Keiebijtersstad","type":"hg:Place","validSince":"2000"}
+{"id":"90","name":"Keiendonk","type":"hg:Place","validSince":"2000"}
+{"id":"91","name":"Keiengat","type":"hg:Place","validSince":"2000"}
+{"id":"92","name":"Keienland","type":"hg:Place","validSince":"2000"}
+{"id":"93","name":"Keienschietersrijk","type":"hg:Place","validSince":"2000"}
+{"id":"94","name":"Keienschietersrijk","type":"hg:Place","validSince":"2000"}
+{"id":"95","name":"Keiespellersdurp","type":"hg:Place","validSince":"2000"}
+{"id":"96","name":"Kelestreupersrijk","type":"hg:Place","validSince":"2000"}
+{"id":"97","name":"Kersenpittenrijk","type":"hg:Place","validSince":"2000"}
+{"id":"98","name":"Kielegat","type":"hg:Place","validSince":"2000"}
+{"id":"99","name":"Kiepenrijk","type":"hg:Place","validSince":"2000"}
+{"id":"100","name":"Klayendam","type":"hg:Place","validSince":"2000"}
+{"id":"101","name":"Kleidonk","type":"hg:Place","validSince":"2000"}
+{"id":"102","name":"Kleiknoestenstad","type":"hg:Place","validSince":"2000"}
+{"id":"103","name":"Klein Antwerpen","type":"hg:Place","validSince":"2000"}
+{"id":"104","name":"Klepbroekenbult","type":"hg:Place","validSince":"2000"}
+{"id":"105","name":"Kleuvendurp","type":"hg:Place","validSince":"2000"}
+{"id":"106","name":"Klompengat","type":"hg:Place","validSince":"2000"}
+{"id":"107","name":"Klotland","type":"hg:Place","validSince":"2000"}
+{"id":"108","name":"Kluivenduikersrijk","type":"hg:Place","validSince":"2000"}
+{"id":"109","name":"Kneutergat","type":"hg:Place","validSince":"2000"}
+{"id":"110","name":"Knllekesland","type":"hg:Place","validSince":"2000"}
+{"id":"111","name":"Knoepersriek","type":"hg:Place","validSince":"2000"}
+{"id":"112","name":"Knoerissenrijk","type":"hg:Place","validSince":"2000"}
+{"id":"113","name":"Knollenrijk","type":"hg:Place","validSince":"2000"}
+{"id":"114","name":"Knollevretersgat","type":"hg:Place","validSince":"2000"}
+{"id":"115","name":"Knopspeldjesrijk","type":"hg:Place","validSince":"2000"}
+{"id":"116","name":"Knorrepottenrijk","type":"hg:Place","validSince":"2000"}
+{"id":"117","name":"Knotwilgendam","type":"hg:Place","validSince":"2000"}
+{"id":"118","name":"Knusterooiersland","type":"hg:Place","validSince":"2000"}
+{"id":"119","name":"Koffiegat","type":"hg:Place","validSince":"2000"}
+{"id":"120","name":"Kraaienland","type":"hg:Place","validSince":"2000"}
+{"id":"121","name":"Kraaierijk","type":"hg:Place","validSince":"2000"}
+{"id":"122","name":"Krabbegat","type":"hg:Place","validSince":"2000"}
+{"id":"123","name":"Krabberdonk","type":"hg:Place","validSince":"2000"}
+{"id":"124","name":"Krimpersgat","type":"hg:Place","validSince":"2000"}
+{"id":"125","name":"Kruikenstad","type":"hg:Place","validSince":"2000"}
+{"id":"126","name":"Krullendonk","type":"hg:Place","validSince":"2000"}
+{"id":"127","name":"Krulstarteland","type":"hg:Place","validSince":"2000"}
+{"id":"128","name":"Krutjesgat","type":"hg:Place","validSince":"2000"}
+{"id":"129","name":"Krutjesgat","type":"hg:Place","validSince":"2000"}
+{"id":"130","name":"Kuussegat","type":"hg:Place","validSince":"2000"}
+{"id":"131","name":"Kwastenlaand","type":"hg:Place","validSince":"2000"}
+{"id":"132","name":"Lampegat","type":"hg:Place","validSince":"2000"}
+{"id":"133","name":"Lappegat","type":"hg:Place","validSince":"2000"}
+{"id":"134","name":"Lappelekkursland","type":"hg:Place","validSince":"2000"}
+{"id":"135","name":"Leemkuul","type":"hg:Place","validSince":"2000"}
+{"id":"136","name":"Loerendonck","type":"hg:Place","validSince":"2000"}
+{"id":"137","name":"Maerkrattenland","type":"hg:Place","validSince":"2000"}
+{"id":"138","name":"Mangelpeejenlaand","type":"hg:Place","validSince":"2000"}
+{"id":"139","name":"Maoneblusserslaand","type":"hg:Place","validSince":"2000"}
+{"id":"140","name":"Maoskesdam","type":"hg:Place","validSince":"2000"}
+{"id":"141","name":"Mastepinnenlaand","type":"hg:Place","validSince":"2000"}
+{"id":"142","name":"Meekrapdurp","type":"hg:Place","validSince":"2000"}
+{"id":"143","name":"Meerpoel","type":"hg:Place","validSince":"2000"}
+{"id":"144","name":"Moerbienlaand","type":"hg:Place","validSince":"2000"}
+{"id":"145","name":"Moesland","type":"hg:Place","validSince":"2000"}
+{"id":"146","name":"Mosterdgat","type":"hg:Place","validSince":"2000"}
+{"id":"147","name":"Muggehol","type":"hg:Place","validSince":"2000"}
+{"id":"148","name":"Mulkgat","type":"hg:Place","validSince":"2000"}
+{"id":"149","name":"Mullukzuipertjesland","type":"hg:Place","validSince":"2000"}
+{"id":"150","name":"Muuzegat","type":"hg:Place","validSince":"2000"}
+{"id":"151","name":"Nachtgraversrijk","type":"hg:Place","validSince":"2000"}
+{"id":"152","name":"Nachtuilenrijk","type":"hg:Place","validSince":"2000"}
+{"id":"153","name":"Narregat","type":"hg:Place","validSince":"2000"}
+{"id":"154","name":"Narrendonk","type":"hg:Place","validSince":"2000"}
+{"id":"155","name":"Oeteldonk","type":"hg:Place","validSince":"2000"}
+{"id":"156","name":"Oetelhaozendam","type":"hg:Place","validSince":"2000"}
+{"id":"157","name":"Oggelvorsenpoel","type":"hg:Place","validSince":"2000"}
+{"id":"158","name":"Oiversland","type":"hg:Place","validSince":"2000"}
+{"id":"159","name":"Olliedonk","type":"hg:Place","validSince":"2000"}
+{"id":"160","name":"Ossekoppenrijk","type":"hg:Place","validSince":"2000"}
+{"id":"161","name":"Osserijk","type":"hg:Place","validSince":"2000"}
+{"id":"162","name":"Ostrecht","type":"hg:Place","validSince":"2000"}
+{"id":"163","name":"Paddenriek","type":"hg:Place","validSince":"2000"}
+{"id":"164","name":"Papgat","type":"hg:Place","validSince":"2000"}
+{"id":"165","name":"Papgat","type":"hg:Place","validSince":"2000"}
+{"id":"166","name":"Papgat","type":"hg:Place","validSince":"2000"}
+{"id":"167","name":"Paplaand","type":"hg:Place","validSince":"2000"}
+{"id":"168","name":"Paplippelland","type":"hg:Place","validSince":"2000"}
+{"id":"169","name":"Papslokkersgat","type":"hg:Place","validSince":"2000"}
+{"id":"170","name":"Peejenland","type":"hg:Place","validSince":"2000"}
+{"id":"171","name":"Peejenrijk","type":"hg:Place","validSince":"2000"}
+{"id":"172","name":"Peejloofdurp","type":"hg:Place","validSince":"2000"}
+{"id":"173","name":"Peelknijnenrijk","type":"hg:Place","validSince":"2000"}
+{"id":"174","name":"Peelleuterrijk","type":"hg:Place","validSince":"2000"}
+{"id":"175","name":"Peelpluimenrijk","type":"hg:Place","validSince":"2000"}
+{"id":"176","name":"Peelstrekelrijk","type":"hg:Place","validSince":"2000"}
+{"id":"177","name":"Peeltuuterrijk","type":"hg:Place","validSince":"2000"}
+{"id":"178","name":"Peelvrujtersland","type":"hg:Place","validSince":"2000"}
+{"id":"179","name":"Peelvruutersrijk","type":"hg:Place","validSince":"2000"}
+{"id":"180","name":"Peperbussenrijk","type":"hg:Place","validSince":"2000"}
+{"id":"181","name":"Pezerikkengat","type":"hg:Place","validSince":"2000"}
+{"id":"182","name":"Pieperland","type":"hg:Place","validSince":"2000"}
+{"id":"183","name":"Pieregat","type":"hg:Place","validSince":"2000"}
+{"id":"184","name":"Piereslikkersrijk","type":"hg:Place","validSince":"2000"}
+{"id":"185","name":"Pierewaaiersrijk","type":"hg:Place","validSince":"2000"}
+{"id":"186","name":"Pierewaaijersrijk","type":"hg:Place","validSince":"2000"}
+{"id":"187","name":"Pinnekleuversgat","type":"hg:Place","validSince":"2000"}
+{"id":"188","name":"Pintenwippersrijk","type":"hg:Place","validSince":"2000"}
+{"id":"189","name":"Pintewippersrijk","type":"hg:Place","validSince":"2000"}
+{"id":"190","name":"Plekkersriek","type":"hg:Place","validSince":"2000"}
+{"id":"191","name":"Ploegersland","type":"hg:Place","validSince":"2000"}
+{"id":"192","name":"Poeswiek","type":"hg:Place","validSince":"2000"}
+{"id":"193","name":"Pompedurp","type":"hg:Place","validSince":"2000"}
+{"id":"194","name":"Pomperstad","type":"hg:Place","validSince":"2000"}
+{"id":"195","name":"Pothuusburg","type":"hg:Place","validSince":"2000"}
+{"id":"196","name":"Pottenbakkersrijk","type":"hg:Place","validSince":"2000"}
+{"id":"197","name":"Potteschijtersland","type":"hg:Place","validSince":"2000"}
+{"id":"198","name":"Puitenlaand","type":"hg:Place","validSince":"2000"}
+{"id":"199","name":"Puitenol","type":"hg:Place","validSince":"2000"}
+{"id":"200","name":"Put en Buntland","type":"hg:Place","validSince":"2000"}
+{"id":"201","name":"R'ommelpottersland","type":"hg:Place","validSince":"2000"}
+{"id":"202","name":"Raldal","type":"hg:Place","validSince":"2000"}
+{"id":"203","name":"Raopersgat","type":"hg:Place","validSince":"2000"}
+{"id":"204","name":"Reigerland","type":"hg:Place","validSince":"2000"}
+{"id":"205","name":"Riefelshol","type":"hg:Place","validSince":"2000"}
+{"id":"206","name":"Roesdonk","type":"hg:Place","validSince":"2000"}
+{"id":"207","name":"Rommegat","type":"hg:Place","validSince":"2000"}
+{"id":"208","name":"Rommelgat","type":"hg:Place","validSince":"2000"}
+{"id":"209","name":"Rottenrijk","type":"hg:Place","validSince":"2000"}
+{"id":"210","name":"SchaopenWaeserland","type":"hg:Place","validSince":"2000"}
+{"id":"211","name":"Schoenlapperslaand","type":"hg:Place","validSince":"2000"}
+{"id":"212","name":"Schorsbos","type":"hg:Place","validSince":"2000"}
+{"id":"213","name":"Schottelzakkenrijk","type":"hg:Place","validSince":"2000"}
+{"id":"214","name":"Schraansersrijk","type":"hg:Place","validSince":"2000"}
+{"id":"215","name":"Skon Orregat","type":"hg:Place","validSince":"2000"}
+{"id":"216","name":"Slikgat","type":"hg:Place","validSince":"2000"}
+{"id":"217","name":"Slotgat","type":"hg:Place","validSince":"2000"}
+{"id":"218","name":"Smokkelgat","type":"hg:Place","validSince":"2000"}
+{"id":"219","name":"Smoorfretersland","type":"hg:Place","validSince":"2000"}
+{"id":"220","name":"Smouzenrijk","type":"hg:Place","validSince":"2000"}
+{"id":"221","name":"Snerkersdurp","type":"hg:Place","validSince":"2000"}
+{"id":"222","name":"Snevelbokkenland","type":"hg:Place","validSince":"2000"}
+{"id":"223","name":"Snewbulten","type":"hg:Place","validSince":"2000"}
+{"id":"224","name":"Spieringkruiersdurp","type":"hg:Place","validSince":"2000"}
+{"id":"225","name":"Spurriebuukerijk","type":"hg:Place","validSince":"2000"}
+{"id":"226","name":"Spurriezeiersland","type":"hg:Place","validSince":"2000"}
+{"id":"227","name":"Stekkegat","type":"hg:Place","validSince":"2000"}
+{"id":"228","name":"Stijlorenrijk","type":"hg:Place","validSince":"2000"}
+{"id":"229","name":"Stopnaoldenrijk","type":"hg:Place","validSince":"2000"}
+{"id":"230","name":"Streupersrijk","type":"hg:Place","validSince":"2000"}
+{"id":"231","name":"Strienedurpke","type":"hg:Place","validSince":"2000"}
+{"id":"232","name":"Strienestad","type":"hg:Place","validSince":"2000"}
+{"id":"233","name":"Striepersgat","type":"hg:Place","validSince":"2000"}
+{"id":"234","name":"Strijkersgat","type":"hg:Place","validSince":"2000"}
+{"id":"235","name":"Strijkersgat","type":"hg:Place","validSince":"2000"}
+{"id":"236","name":"Struifdonk","type":"hg:Place","validSince":"2000"}
+{"id":"237","name":"Struivendurp","type":"hg:Place","validSince":"2000"}
+{"id":"238","name":"Struivenlaand","type":"hg:Place","validSince":"2000"}
+{"id":"239","name":"t Tusriek","type":"hg:Place","validSince":"2000"}
+{"id":"240","name":"t Weppus","type":"hg:Place","validSince":"2000"}
+{"id":"241","name":"Terpersdurp","type":"hg:Place","validSince":"2000"}
+{"id":"242","name":"Teutengat","type":"hg:Place","validSince":"2000"}
+{"id":"243","name":"Theebuikenland","type":"hg:Place","validSince":"2000"}
+{"id":"244","name":"Toeterland","type":"hg:Place","validSince":"2000"}
+{"id":"245","name":"Torensjouwerslaand","type":"hg:Place","validSince":"2000"}
+{"id":"246","name":"Totdenringen","type":"hg:Place","validSince":"2000"}
+{"id":"247","name":"Tullepetaonestad","type":"hg:Place","validSince":"2000"}
+{"id":"248","name":"Turfstekerslaand","type":"hg:Place","validSince":"2000"}
+{"id":"249","name":"Uilendonck","type":"hg:Place","validSince":"2000"}
+{"id":"250","name":"Ulewappersrijk","type":"hg:Place","validSince":"2000"}
+{"id":"251","name":"Urnegat","type":"hg:Place","validSince":"2000"}
+{"id":"252","name":"Vastelaovondzotteland","type":"hg:Place","validSince":"2000"}
+{"id":"253","name":"Veenmollenrijk","type":"hg:Place","validSince":"2000"}
+{"id":"254","name":"Veldhazenrijk","type":"hg:Place","validSince":"2000"}
+{"id":"255","name":"Verkuskopperiek","type":"hg:Place","validSince":"2000"}
+{"id":"256","name":"Verrekensrijk","type":"hg:Place","validSince":"2000"}
+{"id":"257","name":"Waeverstadt","type":"hg:Place","validSince":"2000"}
+{"id":"258","name":"Waoterrattenrijk","type":"hg:Place","validSince":"2000"}
+{"id":"259","name":"Waoterrijk","type":"hg:Place","validSince":"2000"}
+{"id":"260","name":"Wetterland","type":"hg:Place","validSince":"2000"}
+{"id":"261","name":"Weversrijk","type":"hg:Place","validSince":"2000"}
+{"id":"262","name":"Wjeeldrecht","type":"hg:Place","validSince":"2000"}
+{"id":"263","name":"Wringersgat","type":"hg:Place","validSince":"2000"}
+{"id":"264","name":"Zaandhaozenlaand","type":"hg:Place","validSince":"2000"}
+{"id":"265","name":"Zaantaozelaant","type":"hg:Place","validSince":"2000"}
+{"id":"266","name":"Zandhazendurp","type":"hg:Place","validSince":"2000"}
+{"id":"267","name":"Zandkruiersland","type":"hg:Place","validSince":"2000"}
+{"id":"268","name":"Zandkruiersland","type":"hg:Place","validSince":"2000"}
+{"id":"269","name":"Zeikmeikenrijk","type":"hg:Place","validSince":"2000"}
+{"id":"270","name":"Zeuvebultelaand","type":"hg:Place","validSince":"2000"}
+{"id":"271","name":"Zwaajgat","type":"hg:Place","validSince":"2000"}
+{"id":"272","name":"Zwammegat","type":"hg:Place","validSince":"2000"}
+{"id":"273","name":"Zwetsgat","type":"hg:Place","validSince":"2000"}
