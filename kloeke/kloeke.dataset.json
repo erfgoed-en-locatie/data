@@ -1,5 +1,5 @@
 {
-  "sourceCreationDate": "2015",
+  "creationDate": "2015",
   "edits": "De Kloeke plaatsen zijn, voor zover mogelijk, gekoppeld aan hun GeoNames equivalent. Dit geldt overigens alleen voor de Nederlandse plaatsen. De Kloeke plaatsen in België, Duitsland en Frankrijk zijn (nog) niet gekoppeld.\r\n\r\nIn de Kloeke tabel worden twee naamsvarianten per plaats gegeven. Afwijkende plaatsnaamvarianten zijn als aparte dataset aan Historische Geocoder toegevoegd: http://geothesaurus.nl/bron/kloeke-altnames",
   "description": "Kloekecodes zijn unieke aanduidingen voor enige duizenden plaatsen en gehuchten in Nederland, Vlaanderen, Frans Vlaanderen en het noordwesten van Duitsland. Het systeem is in de jaren '20 van de twintigste eeuw ontworpen door de dialectoloog G.G. Kloeke en wordt nog steeds uitgebreid.",
   "author": "Gesinus Gerhardus Kloeke / Meertens Instituut",
